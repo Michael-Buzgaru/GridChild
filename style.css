@@ -1,0 +1,41 @@
+window
+{
+    background-color: magenta;
+}
+
+grid
+{
+    background-color: red;
+}
+
+grid
+{
+    background-color: red;
+}
+
+#myChild
+{
+    background-color: orange;
+}
+
+#myChild
+{
+    background-color: orange;
+}
+
+
+#HOVER
+{
+    background-color: white;
+}
+
+#myLabel
+{
+    font-size: 25px;
+    text-decoration-line: underline;
+}
+
+#catch_hover
+{
+    background-color: yellow;
+}
